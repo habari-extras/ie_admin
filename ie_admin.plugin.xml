@@ -5,7 +5,7 @@
 	<version>1.0</version>
 	<author url="http://habariproject.org/">The Habari Community</author>
 	<description><![CDATA[Adds the <a href="http://code.google.com/p/ie7-js/">ie7-js</a> stylesheet to the Habari Admin.]]></description>
-	<license>Apache License 2.0</license>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
 	<copyright>2010</copyright>
 	<guid>f9bd12cd-a5d9-439f-b4a4-b19e19575e28</guid>
 	<help>
